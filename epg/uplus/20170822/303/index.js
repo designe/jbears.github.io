@@ -1,1 +1,1 @@
-{"channel":"303","broadcasting":"만화","programs":[]}
+[{"channel":"303","broadcasting":"만화","programs":[]}]
