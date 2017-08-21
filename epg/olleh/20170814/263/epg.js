@@ -1,0 +1,1 @@
+{"channel":"263","broadcasting":"이벤트TV","programs":[{"time":"01:00","title":"장스타쇼","category":"연예/오락"},{"time":"02:00","title":"시간이 빚어낸 부산의 맛","category":"교양/정보"},{"time":"02:40","title":"추억의 음악여행","category":"음악"},{"time":"03:10","title":"렛츠고 가요공감","category":"음악"},{"time":"03:40","title":"행복한가요공감","category":"음악"},{"time":"04:00","title":"베스트가요쇼","category":"음악"}]}

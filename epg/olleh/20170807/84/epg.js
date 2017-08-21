@@ -1,0 +1,1 @@
+[{"time":"01:00","title":"스타 크로스드","category":"영화"},{"time":"02:00","title":"캐칭 헬","category":"연예/오락"},{"time":"03:00","title":"스타 크로스드","category":"영화"},{"time":"04:00","title":"엑스 팩터 13","category":"연예/오락"}]

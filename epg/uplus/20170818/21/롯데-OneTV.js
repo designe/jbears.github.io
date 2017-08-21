@@ -1,0 +1,1 @@
+{"channel":"21","broadcasting":"롯데 OneTV","programs":[{"time":"00:00","title":"추천상품","category":"기타"},{"time":"04:00","title":"추천상품","category":"기타"},{"time":"08:00","title":"추천상품","category":"기타"},{"time":"12:00","title":"추천상품","category":"기타"},{"time":"16:00","title":"추천상품","category":"기타"},{"time":"20:00","title":"추천상품","category":"기타"}]}
