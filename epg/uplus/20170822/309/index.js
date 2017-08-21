@@ -1,0 +1,1 @@
+{"channel":"309","broadcasting":"홈채널","programs":[{"time":"00:00","title":"홈채널","category":"라이프"},{"time":"04:00","title":"홈채널","category":"라이프"},{"time":"08:00","title":"홈채널","category":"라이프"},{"time":"12:00","title":"홈채널","category":"라이프"},{"time":"16:00","title":"홈채널","category":"라이프"},{"time":"20:00","title":"홈채널","category":"라이프"}]}
