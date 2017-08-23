@@ -1,1 +1,1 @@
-[{"channel":"307","broadcasting":"TV속마트","programs":[]}]
+[{"channel":"307","broadcasting":"TV속마트","programs":[]},{"channel":"307","broadcasting":"TV속마트","programs":[]}]
