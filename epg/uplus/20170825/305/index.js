@@ -1,1 +1,1 @@
-[{"channel":"305","broadcasting":"미니게임","programs":[]}]
+[{"channel":"305","broadcasting":"미니게임","programs":[]},{"channel":"305","broadcasting":"미니게임","programs":[]}]
