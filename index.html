@@ -3,9 +3,15 @@
     <title>JBEAR'S API ROOT</title>
   </head>
   <body>
-    <p>
+    <div id='title'>
       Hello jbear's API ;)
-    </p>
-    
+    </div>
+    <div id='main'>
+      <a href ='/epg/search/index.html'>SEARCH EPG</a><br/>
+      <div class='click' onclick='goToToday("OLLEH")'>OLLEH TODAY's EPG</div>
+      <div class='click' onclick='goToToday("BTV")'>BTV TODAY's EPG</div>
+      <div class='click' onclick='goToToday("UPLUS")'>UPLUS TODAY's EPG</div>
+    </div>
+    <script src = "/js/main.js"></script>
   </body>
 </html>
