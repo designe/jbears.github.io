@@ -1,9 +1,9 @@
 function goToToday(_stbid)
 {
     var today = new Date();
-    var mm = today.getMonth() + 1;
-    var dd = today.getDate();
-    var yyyy = today.getFullYear();
+    var mm = (today.getMonth() + 1) + "";
+    var dd = today.getDate() + "";
+    var yyyy = today.getFullYear() + "";
 
     if(mm.length < 2) mm = "0" + mm;
     if(dd.length < 2) dd = "0" + dd;
