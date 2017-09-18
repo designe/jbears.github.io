@@ -22,7 +22,7 @@ function goToToday(_stbid)
         break;
     }
 
-    location += (yyyy + mm + dd);
+    location += (yyyy + "" + mm + dd);
 
     document.location.href = location;
 }
