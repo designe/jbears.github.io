@@ -14,7 +14,7 @@ function search()
 {
     $.ajax("/epg/olleh/"+getToday()).done(function(data) {
         $("#container_head").html("검색 결과는 아래와 같습니다.");
-        $("#container_head").html(data);
+        $("#container").html(data);
     });
 }
 
