@@ -1,3 +1,5 @@
+var gEPGSpace = {};
+
 function getToday() {
     var today = new Date();
     var mm = (today.getMonth() + 1) + "";
@@ -20,7 +22,9 @@ function search()
 
 
 $(document).ready(function() {
-
+    $.ajax("/epg/olleh/"+getToday()).done(function(data) {
+        gEPGSpace = data;
+    });
     
 
 });
